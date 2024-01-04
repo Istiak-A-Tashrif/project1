@@ -2,10 +2,12 @@
     margin: 0;
 }   
 
-div {
+#division {
+    /*heading division*/
     background-color: pink;
 }
 #hed {
+    /*this is heading style*/
     background-image: url("/images/background\ img.jpg");
     padding-top: 30vh;
     background-size: cover;
