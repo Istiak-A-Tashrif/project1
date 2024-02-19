@@ -29,7 +29,7 @@
 #list {
     padding: 2vh;
 }
-
-#prc {
+/*this portion not working  */
+ #prc {
     font-size: 2em;
 }
